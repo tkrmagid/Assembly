@@ -1,4 +1,4 @@
-# report
+# answer
 
 1. In an 8-bit binary number, which is the most significant bit (MSB)?
     > 가장 왼쪽 비트 bit7
